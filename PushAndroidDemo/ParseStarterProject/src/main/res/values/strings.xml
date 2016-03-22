@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Push Notification</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- parse.com keys-->
+    <string name="applicationid" >bSpra5JHQTzsOTjxqSu0NlZfs5Xd8FbTrWE9odai</string>
+    <string name="clientkey" >psDo0ivva83i51mWvvXqCdSkwT6sx6PilsVOrxum</string>
+
+    <!-- GCM Sender ID -->
+    <string name="sender_id" >id:438637554200 </string>
+</resources>
