@@ -1,0 +1,1 @@
+Forked from https://github.com/taivo/parse-push-plugin. Support both parse.com and open sourced parse server.
